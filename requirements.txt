@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+motor
+beanie
+pydantic-settings
+pydantic[email]
+python-jose[cryptography]  # Para JWT
+passlib[bcrypt]  # Para hash de senhas
+python-multipart
+slowapi
+python-magic
+aiofiles
+bleach
+itsdangerous
